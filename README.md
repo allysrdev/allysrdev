@@ -8,8 +8,8 @@ Trabalho com: JavaScript, React, Next.js, TypeScript, HTML, CSS.
 - [Guaiamum Digital](https://guaiamumdigital.com.br) - Site desenvolvido com Next.js e TypeScript.
 
 ## Contato
-- 📫 ally@email.com
-- [LinkedIn](https://linkedin.com/in/ally)
+- 📫 contato.allysantana@email.com
+- [LinkedIn](https://linkedin.com/in/allysantanadev)
 
 ## Tecnologias que uso
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
