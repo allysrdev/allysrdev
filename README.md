@@ -4,8 +4,8 @@ Sou desenvolvedor front-end júnior apaixonado por tecnologia e aprendizado cons
 Trabalho com: JavaScript, React, Next.js, TypeScript, HTML, CSS.
 
 ## Projetos em destaque
-- [Meu app de delivery](https://github.com/allysrdev/delivery-app-base-new) - Aplicação SaaS para restaurantes.
-- [Guaiamum Digital](https://guaiamumdigital.com.br) - Site desenvolvido com Next.js e TypeScript.
+- [Desafio XP Educação](https://github.com/allysrdev/react-xp-avancado/tree/main/personal-expenses) - Personal Expenses.
+- [Guaiamum Digital](https://guaiamumdigital.com.br) - Site desenvolvido com Next.js.
 
 ## Contato
 - 📫 contato.allysantana@email.com
