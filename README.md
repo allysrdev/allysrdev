@@ -4,6 +4,8 @@ Sou desenvolvedor front-end júnior apaixonado por tecnologia e aprendizado cons
 Trabalho com: JavaScript, React, Next.js, TypeScript, HTML, CSS.
 
 ## Projetos em destaque
+
+- [PokeApp - Desafio BSN](https://github.com/allysrdev/pokeapp-desafio-bsn) - Personal Expenses - Desafio XP Educação.
 - [Desafio XP Educação](https://github.com/allysrdev/react-xp-avancado/tree/main/personal-expenses) - Personal Expenses - Desafio XP Educação.
 - [Guaiamum Digital](https://guaiamumdigital.com.br) - Site desenvolvido com Next.js.
 
