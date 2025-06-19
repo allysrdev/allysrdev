@@ -6,9 +6,9 @@ Trabalho com: JavaScript, React, Next.js, TypeScript, HTML, CSS.
 ## Projetos em destaque
 
 - [Fluid Editor](https://github.com/allysrdev/fluid-editor) - Fluid Editor - Editor de texto minimalista (React/Typescript/Tiptap/TailwindCSS).
-- [PokeApp - Desafio BSN](https://github.com/allysrdev/pokeapp-desafio-bsn) - PokeApp - Desafio BSN.
-- [Desafio XP Educação](https://github.com/allysrdev/react-xp-avancado/tree/main/personal-expenses) - Personal Expenses - Desafio XP Educação.
-- [Guaiamum Digital](https://guaiamumdigital.com.br) - Site desenvolvido com Next.js.
+- [PokeApp - Desafio BSN](https://github.com/allysrdev/pokeapp-desafio-bsn) - PokeApp - Desafio BSN. (React/Typescript/TailwindCSS)
+- [Desafio XP Educação](https://github.com/allysrdev/react-xp-avancado/tree/main/personal-expenses) - Personal Expenses - Desafio XP Educação. (React/Typescript/TailwindCSS/useReducer)
+- [Guaiamum Digital](https://guaiamumdigital.com.br) - Site desenvolvido com Next.js. (NextJS/Typescript/TailwindCSS)
 
 ## Contato
 - 📫 contato.allysantana@email.com
