@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor front-end júnior apaixonado por tecnologia e aprendizado constante.<br>Trabalho com: JavaScript, React, Next.js, TypeScript, HTML, CSS.
+Sou desenvolvedor fullstack pleno apaixonado por tecnologia e aprendizado constante.<br>Trabalho com: JavaScript, React, Next.js, TypeScript, HTML, CSS.
 
 
 ## 🌐 Socials:
