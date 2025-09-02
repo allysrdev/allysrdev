@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor fullstack pleno apaixonado por tecnologia e aprendizado constante.<br>Trabalho com: JavaScript, React, Next.js, TypeScript, HTML, CSS.
+Sou desenvolvedor fullstack pleno apaixonado por tecnologia e aprendizado constante.<br>Trabalho com: JavaScript, TypeScript, Angular, React, Next.js,  HTML, CSS.
 
 
 ## 🌐 Socials:
